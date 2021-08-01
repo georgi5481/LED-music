@@ -1,5 +1,5 @@
 # LED-music
-A simple Arduino project for making the LED light up in the music beat. 
+A simple Arduino project for making the LED light up to the music beat. 
 Simply using the the arduino analog read port for indicating the voltage input from the 3.5mm jack.
  Then depending what indicated we set the desired light effect on the LEDs.
 
